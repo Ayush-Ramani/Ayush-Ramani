@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Myself Ayush Ramani</h1>
-<h3 align="center">Software Development Engineer from India</h3>
+<h3 align="center">Software Development Engineer from <img style="width:7%;height:7%;" align="center" src="https://cdn-icons-png.flaticon.com/512/256/256672.png" alt="INDIA"></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ayush-ramani&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-ramani" /> </p>
 
